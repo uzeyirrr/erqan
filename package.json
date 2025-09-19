@@ -1,5 +1,5 @@
 {
-  "name": "erqan-docs",
+  "name": "erqan",
   "scripts": {
     "dev": "nuxt dev --extends docus",
     "build": "nuxt build --extends docus"
