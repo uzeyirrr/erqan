@@ -1,72 +1,83 @@
-# Docus Default Starter
+# ERQAN - Sanal Emlak Dünyası
 
-> A beautiful, minimal starter for creating documentation with Docus
+> Geleceğin sanal emlak platformu. Dijital dünyada emlak sahibi olun, kiralayın ve değer kazanın.
 
-This is the default Docus starter template that provides everything you need to build beautiful documentation sites with Markdown and Vue components.
+ERQAN, bilişim sektöründe dünyada bir ilk olmayı hedefleyen, gerçek emlak piyasasına paralel sanal bir dünyada kullanıcıların dijital emlak sahibi olabileceği, alım-satım ve kiralama yapabileceği özgün bir evren sunar.
 
 > [!TIP]
-> If you're looking for i18n support, check out the [i18n starter](https://github.com/nuxt-themes/docus/tree/main/.starters/i18n).
+> ERQAN hakkında detaylı bilgi için [Proje Tanıtımı](/proje-tanitimi) sayfasını ziyaret edin.
 
-## ✨ Features
+## ✨ ERQAN Özellikleri
 
-- 🎨 **Beautiful Design** - Clean, modern documentation theme
-- 📱 **Responsive** - Mobile-first responsive design  
-- 🌙 **Dark Mode** - Built-in dark/light mode support
-- 🔍 **Search** - Full-text search functionality
-- 📝 **Markdown Enhanced** - Extended markdown with custom components
-- 🎨 **Customizable** - Easy theming and brand customization
-- ⚡ **Fast** - Optimized for performance with Nuxt 4
-- 🔧 **TypeScript** - Full TypeScript support
+- 🏠 **Sanal Emlak Sahipliği** - Dijital dünyada Mekan ve Arsa sahibi olun
+- 💰 **Pasif Gelir** - Kiralama ile sürekli gelir elde edin
+- 📈 **Dinamik Değer Artışı** - Satılan varlık sayısına bağlı değer artışı
+- 🌍 **Global Erişim** - 7/24 aktif platform
+- 🚀 **Gelecek Odaklı** - Metaverse teknolojileri
+- 📱 **Mobil Uyumlu** - Tüm cihazlarda mükemmel deneyim
+- 🔒 **Güvenli** - Banka düzeyinde güvenlik
+- ⚡ **Hızlı** - Optimize edilmiş performans
 
-## 🚀 Quick Start
+## 🚀 Hızlı Başlangıç
 
 ```bash
-# Install dependencies
+# Bağımlılıkları yükleyin
 npm install
 
-# Start development server
+# Geliştirme sunucusunu başlatın
 npm run dev
 ```
 
-Your documentation site will be running at `http://localhost:3000`
+Dokümantasyon siteniz `http://localhost:3000` adresinde çalışacak
 
-## 📁 Project Structure
+## 📁 Proje Yapısı
 
 ```
-my-docs/
-├── content/              # Your markdown content
-│   ├── index.md         # Homepage
-│   ├── 1.getting-started/  # Getting started section
-│   └── 2.essentials/    # Essential documentation
-├── public/              # Static assets
-└── package.json         # Dependencies and scripts
+erqan/
+├── content/              # Markdown içerikleri
+│   ├── index.md         # Ana sayfa
+│   ├── 1.getting-started/  # Başlangıç bölümü
+│   ├── 2.essentials/    # Rehber dokümantasyonu
+│   └── *.md             # ERQAN sayfaları
+├── public/              # Statik dosyalar
+└── package.json         # Bağımlılıklar ve scriptler
 ```
 
-## ⚡ Built with
+## ⚡ Teknoloji Altyapısı
 
-This starter comes pre-configured with:
+ERQAN dokümantasyonu şu teknolojilerle geliştirilmiştir:
 
-- [Nuxt 4](https://nuxt.com) - The web framework
-- [Nuxt Content](https://content.nuxt.com/) - File-based CMS
-- [Nuxt UI Pro](https://ui.nuxt.com/pro) - Premium UI components
-- [Nuxt Image](https://image.nuxt.com/) - Optimized images
+- [Nuxt 4](https://nuxt.com) - Web framework
+- [Nuxt Content](https://content.nuxt.com/) - Dosya tabanlı CMS
+- [Nuxt UI Pro](https://ui.nuxt.com/pro) - Premium UI bileşenleri
+- [Nuxt Image](https://image.nuxt.com/) - Optimize edilmiş görseller
 - [Tailwind CSS 4](https://tailwindcss.com/) - Utility-first CSS
-- [Docus Layer](https://www.npmjs.com/package/docus) - Documentation theme
+- [Docus Layer](https://www.npmjs.com/package/docus) - Dokümantasyon teması
 
-## 📖 Documentation
+## 📖 Dokümantasyon
 
-For detailed documentation on customizing your Docus project, visit the [Docus Documentation](https://docus.dev)
+ERQAN hakkında detaylı bilgi için:
+- [Proje Tanıtımı](/proje-tanitimi)
+- [Ürün Detayları](/urun-detaylari)
+- [İş Modeli](/is-modeli-ve-kazanc)
+- [Yol Haritası](/yol-haritasi)
 
 ## 🚀 Deployment
 
-Build for production:
+Production için build:
 
 ```bash
 npm run build
 ```
 
-The built files will be in the `.output` directory, ready for deployment to any hosting provider that supports Node.js.
+Build edilen dosyalar `.output` dizininde olacak ve Node.js destekleyen herhangi bir hosting sağlayıcısına deploy edilebilir.
 
-## 📄 License
+## 📞 İletişim
+
+- **Website**: [erqan.com](https://erqan.com)
+- **GitHub**: [github.com/uzeyirrr/erqan](https://github.com/uzeyirrr/erqan)
+- **E-posta**: [İletişim bilgileri](/ekip-ve-iletisim)
+
+## 📄 Lisans
 
 [MIT License](https://opensource.org/licenses/MIT) 
