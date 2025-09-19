@@ -76,8 +76,3 @@ Build edilen dosyalar `.output` dizininde olacak ve Node.js destekleyen herhangi
 
 - **Website**: [erqan.com](https://erqan.com)
 - **GitHub**: [github.com/uzeyirrr/erqan](https://github.com/uzeyirrr/erqan)
-- **E-posta**: [İletişim bilgileri](/ekip-ve-iletisim)
-
-## 📄 Lisans
-
-[MIT License](https://opensource.org/licenses/MIT) 
