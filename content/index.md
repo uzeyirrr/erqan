@@ -1,123 +1,109 @@
 ---
 seo:
-  title: Write beautiful docs with Markdown
-  description: Ship fast, flexible, and SEO-optimized documentation with beautiful
-    design out of the box. Docus brings together the best of the Nuxt ecosystem.
-    Powered by Nuxt UI Pro.
+  title: ERQAN - Sanal Emlak Dünyası
+  description: Geleceğin sanal emlak platformu. Dijital dünyada emlak sahibi olun, kiralayın ve değer kazanın.
 ---
 
 ::u-page-hero
 #title
-Write beautiful docs with Markdown
+ERQAN: Sanal Emlak Dünyası
 
 #description
-Ship fast, flexible, and SEO-optimized documentation with beautiful design out of the box.
+Geleceğin sanal emlak platformu. Dijital dünyada emlak sahibi olun, kiralayın ve değer kazanın.
 
-Docus brings the best of the Nuxt ecosystem into one CLI.
+Gelin birlikte bu sanal dünyayı inşa edelim.
 
 #links
   :::u-button
   ---
-  color: neutral
+  color: primary
   size: xl
-  to: /getting-started/installation
+  to: /proje-tanitimi
   trailing-icon: i-lucide-arrow-right
   ---
-  Get started
+  Projeyi Keşfet
   :::
 
   :::u-button
   ---
   color: neutral
-  icon: simple-icons-github
+  icon: i-lucide-globe
   size: xl
-  to: https://github.com/nuxt-ui-pro/docus
+  to: https://erqan.com
   variant: outline
   ---
-  Star on GitHub
+  erqan.com
   :::
 ::
 
 ::u-page-section
 #title
-Shipped with many features
+ERQAN'ın Temel Özellikleri
 
 #features
   :::u-page-feature
   ---
-  icon: i-simple-icons-nuxt
-  target: _blank
-  to: https://nuxt.com
+  icon: i-lucide-building-2
   ---
   #title
-  Built with [Nuxt 4]{.text-primary}
+  [Sanal Emlak Sahipliği]{.text-primary}
   
   #description
-  Optimized by the most famous Vue framework. Docus gives you everything you need to build fast, performant, and SEO-friendly websites.
+  Dijital dünyada Mekan ve Arsa sahibi olun. 1.600.000 Mekan ve 10.000.000 Arsa ile geniş bir sanal emlak portföyü.
   :::
 
   :::u-page-feature
   ---
-  icon: i-simple-icons-nuxt
-  target: _blank
-  to: https://ui.nuxt.com/
+  icon: i-lucide-trending-up
   ---
   #title
-  Powered by [Nuxt UI Pro]{.text-primary}
+  [Dinamik Değer Artışı]{.text-primary}
   
   #description
-  Beautiful out of the box, minimal by design but highly customizable. Docus leverages Nuxt UI Pro to give you the best docs writing experience with zero boilerplate, just focus on your content.
+  Satılan varlık sayısı arttıkça mevcut varlıklarınızın değeri de oransal olarak artar. Borsa benzeri dinamik bir sistem.
   :::
 
   :::u-page-feature
   ---
-  icon: i-simple-icons-nuxt
-  target: _blank
-  to: https://content.nuxt.com
+  icon: i-lucide-dollar-sign
   ---
   #title
-  Enhanced Markdown syntax by [Nuxt Content]{.text-primary}
+  [Pasif Gelir Elde Etme]{.text-primary}
   
   #description
-  The only thing you need to take care about is writing your content. Write your pages in Markdown and extend with MDC syntax to embed Nuxt UI or custom Vue components. Structure, routing, and rendering are handled for you.
+  Mekanlarınızı kiralayarak sürekli gelir elde edin. Kiralarınızı kendiniz belirleyin ve güncelleyin.
   :::
 
   :::u-page-feature
   ---
-  icon: i-simple-icons-nuxt
-  target: _blank
-  to: https://nuxt.com/docs/guide/directory-structure/app-config
+  icon: i-lucide-users
   ---
   #title
-  Customize with [Nuxt App Config]{.text-primary}
+  [Topluluk Odaklı]{.text-primary}
   
   #description
-  Update colors, social links, header logos and component styles globally using the `app.config.ts`, no direct code modifications required.
+  16 yaş ve üzeri tüm dijital kullanıcılar için tasarlanmış, kullanıcı dostu arayüz.
   :::
 
   :::u-page-feature
   ---
-  icon: i-simple-icons-nuxt
-  target: _blank
-  to: https://content.nuxt.com/studio
+  icon: i-lucide-globe
   ---
   #title
-  Collaborate on [Nuxt Studio]{.text-primary}
+  [Dünya Çapında Erişim]{.text-primary}
   
   #description
-  Write and manage your content visually, with zero Markdown knowledge required. Let your non technical colleagues collaborate on the documentation and integrate Vue components without code skills.
+  İnternet altyapısı hazır, kısa süre içerisinde test yayınlarına başlanacak.
   :::
 
   :::u-page-feature
   ---
-  icon: i-simple-icons-nuxt
-  target: _blank
-  to: https://ui.nuxt.com/components/content-search
+  icon: i-lucide-rocket
   ---
   #title
-  Built-in navigation and [full-text search]{.text-primary}
+  [Gelecek Odaklı]{.text-primary}
   
   #description
-  Only focus on ordering your content, Docus handles the search modal and auto-generates the side navigation for you.
+  Metaverse ve dijital varlıklara artan ilgiye paralel olarak gelişen yenilikçi platform.
   :::
 ::
